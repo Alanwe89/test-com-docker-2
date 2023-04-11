@@ -1,0 +1,15 @@
+{
+	"id": "542fb393-7f3e-4421-8711-cc004bc141ff",
+	"values": [
+		{
+			"key": "url",
+			"value": "https://api.predic8.de/shop",
+			"type": "default",
+			"enabled": true
+		}
+	],
+	"name": "Globals",
+	"_postman_variable_scope": "globals",
+	"_postman_exported_at": "2023-04-11T19:18:39.542Z",
+	"_postman_exported_using": "Postman/10.12.13"
+}
